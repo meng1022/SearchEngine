@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> LA010189-0002 </DOCNO>
+<DOCID> 2 </DOCID>
+<HEADLINE>
+<P>
+Global Warming
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The Earth is warming up, and humans are at least partially to blame. 
+The causes, effects, and complexities of global warming are important to understand 
+so that we can fight for the health of our planet.
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+Ash spews from a coal-fueled power plant in New Johnsonville, Tennessee.
+</P>
+</GRAPHIC>
+</DOC>

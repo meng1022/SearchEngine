@@ -1,0 +1,4 @@
+docno: LA010189-0004
+internal id: 4
+date: January 1, 1989
+headline: Fossil-fuel

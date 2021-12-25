@@ -1,0 +1,4 @@
+docno: LA010189-0001
+internal id: 1
+date: January 1, 1989
+headline: Climate Change

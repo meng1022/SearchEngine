@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> LA010189-0001 </DOCNO>
+<DOCID> 1 </DOCID>
+<HEADLINE>
+<P>
+Climate Change
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Climate change includes both global warming driven by human-induced 
+emissions of greenhouse gases and the resulting large-scale shifts in weather patterns.
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+Average surface air temperatures from 2011 to 2020 
+compared to a baseline average from 1951 to 1980 
+</P>
+</GRAPHIC>
+</DOC>
