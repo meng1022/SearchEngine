@@ -6,6 +6,8 @@
 ## Instruction
 
 ### 1. To ExtractMetaData, run the following commands sequentially:
+### Download latimes.gz from Google Drive via this link https://drive.google.com/file/d/1XETHqYso7peG3zCdoodITfqlDjnA-fh4/view?usp=sharing
+
 ```
 .\ExtractMetaData\src\hw1\javac DocProcessor.java MyGZFile.java IndexEngine.java
 ```
