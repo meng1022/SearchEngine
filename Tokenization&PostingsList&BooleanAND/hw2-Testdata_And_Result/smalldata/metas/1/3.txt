@@ -1,4 +1,0 @@
-docno: LA010189-0003
-internal id: 3
-date: January 1, 1989
-headline: RECYCLING

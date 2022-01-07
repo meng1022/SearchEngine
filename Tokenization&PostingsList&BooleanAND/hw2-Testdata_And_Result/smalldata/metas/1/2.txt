@@ -1,4 +1,0 @@
-docno: LA010189-0002
-internal id: 2
-date: January 1, 1989
-headline: Global Warming
